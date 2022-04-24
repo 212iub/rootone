@@ -1,9 +1,15 @@
 body{
   color: black;
 }
-.question{
-  float: left;
-  padding: 110px;
+
+.Vvisit{
+  font-family: "Courier";
+  font-size: 20px;
+  margin: 10px 0 0 10px;
+  white-space: nowrap;
+  overflow: hidden;
+  width: 30em;
+  animation: type 20s steps(50, end);
 }
 .Vvisit{
   font-family: "Courier";
