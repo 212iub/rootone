@@ -2,21 +2,56 @@ body{
   color: black;
 }
 .question{
-  font-size: 90px
+  float: left;
+  padding: 110px;
 }
-.visit{
-    font-family: "Courier";
-    font-size: 20px;
-    margin: 10px 0 0 10px;
-    white-space: nowrap;
-    overflow: hidden;
-    width: 30em;
-    animation: type 16s steps(50, end);
-  }
-  
-  
-  @keyframes type{ 
-    from { width: 0; } 
-  }
+.Vvisit{
+  font-family: "Courier";
+  font-size: 20px;
+  margin: 10px 0 0 10px;
+  white-space: nowrap;
+  overflow: hidden;
+  width: 30em;
+  animation: type 20s steps(50, end);
+}
+.Ivisit{
+  font-family: "Courier";
+  font-size: 20px;
+  margin: 10px 0 0 10px;
+  white-space: nowrap;
+  overflow: hidden;
+  width: 30em;
+  animation: type 40s steps(50, end);
+}
+.Svisit{
+  font-family: "Courier";
+  font-size: 20px;
+  margin: 10px 0 0 10px;
+  white-space: nowrap;
+  overflow: hidden;
+  width: 30em;
+  animation: type 60s steps(50, end);
+}
+.I2visit{
+  font-family: "Courier";
+  font-size: 20px;
+  margin: 10px 0 0 10px;
+  white-space: nowrap;
+  overflow: hidden;
+  width: 30em;
+  animation: type 80s steps(50, end);
+}
+.Tvisit{
+  font-family: "Courier";
+  font-size: 20px;
+  margin: 10px 0 0 10px;
+  white-space: nowrap;
+  overflow: hidden;
+  width: 30em;
+  animation: type 100s steps(50, end);
+}
+@keyframes type{ 
+  from { width: 0; } 
+}
 
   
