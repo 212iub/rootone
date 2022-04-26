@@ -3,8 +3,9 @@ body{
 }
 
 .InstructionsImg{
-  position:;
+  position:relative;
   border:black; 
+  top:10px;
 }
 .BlueDotImg{
   position:relative;
