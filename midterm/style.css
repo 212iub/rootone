@@ -4,11 +4,12 @@ body{
 
 .InstructionsImg{
   position:;
-  
+  border:black; 
 }
 .BlueDotImg{
-  position:relative
+  position:relative;
   left:10px;
+  border:black;
 }
 
 
