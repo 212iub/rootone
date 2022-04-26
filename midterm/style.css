@@ -2,14 +2,9 @@ body{
   color: black;
 }
 
-.image{
-  font-family: "Courier";
-  font-size: 20px;
-  margin: 10px 0 0 10px;
-  white-space: nowrap;
-  overflow: hidden;
-  width: 30em;
-  animation: type 20s steps(50, end);
+.Instructions{
+  position:relative;
+  float: right;
 }
 .Vvisit{
   font-family: "Courier";
