@@ -8,7 +8,8 @@ body{
  margin-left: auto;
  margin-right: auto;
  position: relative;
- bottom:100px;
+ bottom:150px;
+ right
 }
 .BlueDotImg{
  display: block;
@@ -17,7 +18,8 @@ body{
 }
 
 .ArgentinaImg{
-  
+ position: relative;
+ 
 }
 
 /*
