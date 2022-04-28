@@ -21,6 +21,7 @@ body{
   position: relative;
   bottom: 800px;
   left: 900px;
+  border:1px;
 }
 
 .ArgentinaImg:hover{
