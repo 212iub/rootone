@@ -17,6 +17,12 @@ body{
  margin-right: auto;
 }
 
+.ArgentinaImg{
+  position: relative;
+  bottom: 800px;
+  left: 900px;
+}
+
 .ArgentinaImg:hover{
   color: rgb(255, 0, 0);
 }
