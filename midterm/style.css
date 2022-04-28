@@ -17,10 +17,11 @@ body{
  margin-right: auto;
 }
 
-.ArgentinaImg{
- position: relative;
- 
+.ArgentinaImg a:hover{
+  background-color: #ddd;
+  color: black;
 }
+ 
 
 /*
 .Vvisit{
