@@ -19,8 +19,9 @@ body{
 
 .ArgentinaImg{
   position: relative;
-  bottom: 500px;
-  left: 610px;
+  bottom: 495px;
+  left: 540px;
+  border:1px;
 }
 
 .ArgentinaImg:hover{
