@@ -23,7 +23,7 @@ body{
   left: 565px;
 }
 
-.ArgentinaImg:hover{
+.ArgentinaImg, .PolandImg:hover{
   opacity:0.5;
   
 }
