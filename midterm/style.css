@@ -2,7 +2,6 @@ body{
   color: white;
   background-color: rgb(24, 4, 98);
 }
-
 .InstructionsImg{
  display: block;
  margin-left: auto;
@@ -16,24 +15,23 @@ body{
  margin-left: auto;
  margin-right: auto;
 }
-
 .ArgentinaImg{
   position: relative;
   bottom: 495px;
   left: 590px;
 }
+.PolandImg{
+  position:relative;
+  bottom: 750px;
+  left:750px;
+}
+
 
 .ArgentinaImg:hover, .PolandImg:hover, .JapanImg:hover{
   opacity:0.5;
   
 }
 
-.PolandImg{
-  position:relative;
-  bottom: 750px;
-  left:750px;
-}
- 
 
 /*
 .Vvisit{
