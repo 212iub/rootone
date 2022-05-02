@@ -20,12 +20,12 @@ body{
 .ArgentinaImg{
   position: relative;
   bottom: 495px;
-  left: 550px;
+  left: 565px;
 }
 
 .ArgentinaImg:hover{
-  background-color: rgb(255, 0, 170);
   opacity: 0.5;
+  color:
 }
 
 .PolandImg{
