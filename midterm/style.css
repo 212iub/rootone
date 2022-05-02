@@ -26,6 +26,13 @@ body{
 
 .ArgentinaImg:hover{
   background-color: aqua;
+  opacity: 0.5;
+}
+
+.PolandImg{
+  position:relative;
+  bottom: 400px;
+  left:500px;
 }
  
 
