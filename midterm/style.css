@@ -25,13 +25,15 @@ body{
   bottom: 750px;
   left:750px;
 }
-
-
-.ArgentinaImg:hover, .PolandImg:hover, .JapanImg:hover{
-  opacity:0.5;
+.JapanImg{
+  position:relative;
   
 }
-
+.ArgentinaImg:hover, .PolandImg:hover, .JapanImg:hover{
+  opacity:0.5;
+  color:blueviolet;
+}
+.
 
 /*
 .Vvisit{
