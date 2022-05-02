@@ -24,7 +24,7 @@ body{
 }
 
 .ArgentinaImg:hover{
-  background-color: aqua;
+  background-color: rgb(255, 0, 170);
   opacity: 0.5;
 }
 
