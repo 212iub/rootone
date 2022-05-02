@@ -24,14 +24,14 @@ body{
 }
 
 .ArgentinaImg:hover{
-  opacity: 0.5;
-  color:
+  opacity: ;
+  color: darkcyan;
 }
 
 .PolandImg{
   position:relative;
-  bottom: 400px;
-  left:500px;
+  bottom: 750px;
+  left:700px;
 }
  
 
