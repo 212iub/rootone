@@ -12,8 +12,8 @@ body{
 }
 .BlueDotImg{
  display: block;
- margin-left: 50%;
- margin-right: %;
+ margin-left: auto;
+ margin-right: auto;
 }
 .ArgentinaImg{
   position: relative;
