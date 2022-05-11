@@ -32,14 +32,14 @@ nav{
 
 }
  
- nav ul{
+nav ul{
   text-align: center;
   font-family: Arial,Verdana;
   font-size: 18px;
   list-style: none;
 }
 
- nav ul li{
+nav ul li{
   display: inline-block;
   height: 20px;
   width: 95px;
@@ -47,13 +47,14 @@ nav{
   white-space: nowrap;
 }
 
- nav ul li a{
+nav ul li a{
   text-decoration: none;
   padding: 5px 20px 5px 20px
   background: #ffcd9b;
-  color: ;
+  color: #ffffff;
   text-shadow: 0px 1px 1px rgba(0,0,0,.5);
   border-style: solid;
-  border-width: 1px;
-  
+  border-width: 10px;
+  border-color: white;
 }
+
