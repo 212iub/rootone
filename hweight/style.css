@@ -76,7 +76,7 @@ article p {
 
 section {
   background-color: #c5ff9b8d;
-  border: double 4px white;
+  border: double 4px rgba(170, 19, 123, 0.894);
   padding: 0px;
   margin: 10px 10px;
 }
@@ -102,7 +102,7 @@ aside {
   top: -535px;
   left: 640px;
   background-color: #c5ff9b8d;
-  border: solid 8px white;
+  border: solid 8px rgba(170, 19, 123, 0.894);
   height: 555px;
   width: 302px;
   text-shadow: 0 1px 1px rgba(0, 0, 0, .5);
