@@ -1,9 +1,62 @@
 body{
+  margin: auto;
   width: 960px;
   font-size: 20px;
   font-family: Times, serif;
-  background-color: #9bcdff5f;
+  background-color: #f7d12988;
   color:rgb(56, 38, 38);
 }
+
+header [role="banner"]{
+  position:relative;
+  top:20px;
+  background-color:#ff9bf75f;
+  height: 135px;
+  border-style: solid;
+  border-width:10px;
+  border-color:rgb(0, 0, 0);
+}
+
+h1{
+  font-size: 60px;
+  text-align:center;
+  color:crimson;
+  text-shadow: 0px 1px 1px rgba(32, 31, 31, 0.5);
+  margin: 0px 0px 0px 0px;
+}
+
+nav{
+  height:50px;
+  width: 800px;
+  margin 0px 0px 0px 60px;
+
+}
+ 
+nav ul{
+  text-align: center;
+  font-family: Arial,Verdana;
+  font-size: 18px;
+  list-style: none;
+}
+
+nav ul li{
+  display: inline-block;
+  height: 20px;
+  width: 95px;
+  margin: 0px 55px 0px 5px;
+  white-space: nowrap;
+}
+
+nav ul li a{
+  text-decoration: none;
+  padding: 5px 20px 5px 20px
+  background: #ffcd9b;
+  color: #ffffff;
+  text-shadow: 0px 1px 1px rgba(0,0,0,.5);
+  border-style: solid;
+  border-width: 10px;
+  border-color: white;
+}
+
 
 
