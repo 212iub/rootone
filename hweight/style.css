@@ -10,13 +10,13 @@ body {
 header[role="banner"] {
   margin-top: 20px;
   height: 135px;
-  border: solid 10px white;
+  border: solid 10px rgba(170, 19, 123, 0.894);
 }
 
 h1 {
   font-size: 60px;
   text-align: center;
-  color: #ff4ba0;
+  color: #ffffff;
   text-shadow: 0 1px 1px rgba(0, 0, 0, .5);
   margin: 5px 0 0 0;
 }
@@ -53,15 +53,15 @@ nav ul li a {
 article {
   position: relative;
   top: 35px;
-  background-color: #ffcd9b;
-  border: double 10px white;
+  background-color: #c5ff9b;
+  border: double 10px rgba(170, 19, 123, 0.894);
   text-shadow: 0 1px 1px rgba(0, 0, 0, .5);
   height: 550px;
   width: 600px;
 }
 
 article h2 {
-  color: #ff4ba0;
+  color: #ffffff;
   font-size: 24px;
   line-height: 14px;
   margin: 20px 0 0 0;
@@ -75,7 +75,7 @@ article p {
 }
 
 section {
-  background-color: #9bcdff;
+  background-color: #c5ff9b8d;
   border: double 4px white;
   padding: 0px;
   margin: 10px 10px;
@@ -101,7 +101,7 @@ aside {
   position: relative;
   top: -535px;
   left: 640px;
-  background-color: #ffcd9b;
+  background-color: #c5ff9b8d;
   border: solid 8px white;
   height: 555px;
   width: 302px;
