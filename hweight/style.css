@@ -58,5 +58,75 @@ nav ul li a{
   border-color: white;
 }
 
+article {
+  position: relative;
+  top: 35px;
+  background-color: #ffcd9b;
+  border: double 10px white;
+  text-shadow: 0 1px 1px rgba(0, 0, 0, .5);
+  height: 550px;
+  width: 600px;
+}
 
+article h2 {
+  color: #ff4ba0;
+  font-size: 24px;
+  line-height: 14px;
+  margin: 20px 0 0 0;
+  padding: 10px 20px;
+}
+
+article p {
+  color: rgba(0, 0, 0, .5);
+  line-height: 24px;
+  padding: 2px 20px;
+}
+
+section {
+  background-color: #9bcdff;
+  border: double 4px white;
+  padding: 0px;
+  margin: 10px 10px;
+}
+
+section h3 {
+  color: #ff4ba0;
+  font-size: 22px;
+  line-height: 14px;
+  margin: 10px 0 0 0;
+  padding: 20px 5px 0 20px;
+  text-shadow: 0 1px 1px rgba(0, 0, 0, .5);
+}
+
+section p {
+  color: #ffffff;
+  font-size: 16px;
+  font-style: italic;
+  line-height: 22px;
+}
+
+aside {
+  position: relative;
+  top: -535px;
+  left: 640px;
+  background-color: #ffcd9b;
+  border: solid 8px white;
+  height: 555px;
+  width: 302px;
+  text-shadow: 0 1px 1px rgba(0, 0, 0, .5);
+}
+
+aside h3 {
+  color: #ff4ba0;
+  font-size: 24px;
+  line-height: 14px;
+  margin: 20px 0px 0px 0px;
+  padding: 10px 20px;
+}
+
+aside p {
+  color: rgba(0, 0, 0, .5);
+  line-height: 22px;
+  padding: 0 20px;
+}
 
