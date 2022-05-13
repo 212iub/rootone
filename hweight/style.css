@@ -82,7 +82,7 @@ section {
 }
 
 section h3 {
-  color: #ffffff;
+  color: #4a0202b7;
   font-size: 22px;
   line-height: 14px;
   margin: 10px 0 0 0;
@@ -91,7 +91,7 @@ section h3 {
 }
 
 section p {
-  color: #ffffff;
+  color: #4a0202b7;
   font-size: 16px;
   font-style: italic;
   line-height: 22px;
@@ -108,8 +108,8 @@ aside {
   text-shadow: 0 1px 1px rgba(0, 0, 0, .5);
 }
 
-aside h3 {
-  color: #ffffff;
+/aside h3 {
+  color: #4a0202b7;
   font-size: 24px;
   line-height: 14px;
   margin: 20px 0px 0px 0px;
