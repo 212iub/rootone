@@ -50,7 +50,7 @@ nav ul li a {
   border: solid 4px white;
 }
 
-nav:hover{
+nav ul li a:hover{
   opacity:0.5;
 }
 
