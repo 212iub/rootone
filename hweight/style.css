@@ -99,7 +99,7 @@ section p {
 
 aside {
   position: relative;
-  top: 2px;
+  top: -1105px;
   left: 640px;
   background-color: #92be7257;
   border: solid 8px rgba(170, 19, 123, 0.894);
@@ -108,7 +108,7 @@ aside {
   text-shadow: 0 1px 1px rgba(0, 0, 0, .5);
 }
 
-/*aside h3 {
+/aside h3 {
   color: #4a0202b7;
   font-size: 24px;
   line-height: 14px;
