@@ -146,3 +146,7 @@ aside ul li a:hover{
   opacity:0.5;
   border: dashed 4px black;
 }
+
+img {
+  margin: 30px 160px;
+}
