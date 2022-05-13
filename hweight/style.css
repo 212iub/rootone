@@ -52,6 +52,7 @@ nav ul li a {
 
 nav ul li a:hover{
   opacity:0.5;
+  border: solid 4px black;
 }
 
 article {
@@ -126,8 +127,22 @@ aside p {
   padding: 0 20px;
 }
 
-.navigationbar {
-  position:relative;
-  left:50px;
-  margin
+aside ul li{
+  display:inline-grid;
+  margin: 30 55px 0 6px;
+  white-space: nowrap;
+}
+
+aside ul li a{
+  text-decoration: none;
+  padding: 5px 5px;
+  background: #87e71178;
+  color: #ffffff;
+  text-shadow: 0 1px 1px rgba(0, 0, 0, .5);
+  border: solid 4px white;
+}
+
+aside ul li a:hover{
+  opacity:0.5;
+  border: dashed 4px black;
 }
