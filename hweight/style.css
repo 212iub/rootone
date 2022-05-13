@@ -50,6 +50,10 @@ nav ul li a {
   border: solid 4px white;
 }
 
+nav:hover{
+  opacity:0.5;
+}
+
 article {
   position: relative;
   top: 35px;
