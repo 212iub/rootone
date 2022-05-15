@@ -10,6 +10,7 @@ body {
 header[role="banner"] {
   margin-top: 20px;
   height: 135px;
+  background-color: #c5ff9b;
   border: solid 10px rgba(170, 19, 123, 0.894);
 }
 
@@ -149,4 +150,12 @@ aside ul li a:hover{
 
 img {
   margin: 20px 160px 10px ;
+}
+
+footer {
+  text-align: center;
+  position: relative;
+  top: -701px;
+  background-color: #c5ff9b;
+  text-shadow: 0 1px 1px rgba(0, 0, 0, 0.5);
 }
