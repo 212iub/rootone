@@ -3,8 +3,8 @@ body {
   margin: 0 auto;
   background-color: #87e71154;
   font-size: 20px;
-  font-family:'Times New Roman', Times, serif;
-  color: #ffffff;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  color: #4a0202b7;
 }
 
 header[role="banner"] {
