@@ -9,6 +9,13 @@ body {
 	padding:  50px 0 0 0;
 }
 
+.intro {
+
+	font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+	color:aliceblue;
+	font-size: medium;
+}
+
 .question {
 
 	display:inline;
