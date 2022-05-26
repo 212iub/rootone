@@ -18,5 +18,5 @@ body {
 
 .question {
 
-	display:inline;
+	display:inline-block;
 }
