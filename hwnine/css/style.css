@@ -23,7 +23,7 @@ body {
 .intro {
 
 	font-family:'Arial Narrow Bold', sans-serif;
-	font-weight: bold;
+	font-weight:bolder;
 	color:rgb(80, 4, 4);
 	font-size:70px;
 }
