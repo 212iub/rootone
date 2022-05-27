@@ -11,7 +11,7 @@ body {
 
 .bars {
 	width: 10px;
-	height: 10px;
+	height: 100px;
 	background: white;
 	transition: height 4s;
   }
