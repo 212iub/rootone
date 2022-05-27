@@ -12,12 +12,13 @@ body {
 .bars {
 	width: 10px;
 	height: 10px;
-	background: black;
-	transition: height 1s;
+	background: white;
+	transition: height 4s;
   }
   
   .bars:hover {
 	height: 300px;
+	font-display: Hello;
   }
 
 .intro {
