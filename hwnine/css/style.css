@@ -9,14 +9,14 @@ body {
 	padding:  50px 0 0 0;
 }
 
-.grid_12 bars {
+.bars {
 	width: 10px;
 	height: 100px;
 	background: black;
 	transition: height 1s;
   }
   
-  div:hover {
+  .bars:hover {
 	height: 300px;
   }
 
