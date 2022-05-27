@@ -18,7 +18,7 @@ body {
   
   .bars:hover {
 	height: 300px;
-	font-display: Hello;
+	font-display:var(.header);
   }
 
 .intro {
