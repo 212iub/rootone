@@ -17,8 +17,8 @@ body {
   }
   
   .bars:hover {
+	
 	height: 300px;
-	font-display:var(.header);
   }
 
 .intro {
@@ -29,8 +29,10 @@ body {
 	font-size:70px;
 }
 
-.image1{
+.image1:hover{
 
+	color:black;
+	opacity:0.5;
 }
 
 .question {
