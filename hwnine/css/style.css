@@ -39,3 +39,8 @@ b {
 	font-weight:lighter;
 	padding:10px;
 }
+
+b:hover{
+
+	color:black;
+}
