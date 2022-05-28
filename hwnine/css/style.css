@@ -40,7 +40,7 @@ b {
 	padding:10px;
 }
 
-b:hover{
+.bold:hover{
 
 	color:black;
 }
