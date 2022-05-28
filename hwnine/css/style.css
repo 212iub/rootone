@@ -11,9 +11,9 @@ body {
 
 .bars {
 	width: 10px;
-	height: 100px;
-	background: white;
-	transition: height 4s;
+	height: 10px;
+	background: black;
+	transition: height 1s;
   }
   
   .bars:hover {
