@@ -32,10 +32,10 @@ body {
 .image:hover{
 
 	transform: scale(1.2);
-	
 }
 
 b {
 
 	font-weight:lighter;
+	padding:10px;
 }
