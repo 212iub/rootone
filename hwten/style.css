@@ -54,12 +54,6 @@ h1 {
 	text-align:center;
 }
 
-/* In this example... we will create a media query for printing.. for this example
-when an individual goes to print a page.. they really only want the content,
-they don't necessarily want all the extra stuff like navigation bars or the 
-footer information.. So we can create a media query that remove those elements
-from the page when our users go to print the screen */
-
 @media print {
 
 	nav, footer {
@@ -68,9 +62,25 @@ from the page when our users go to print the screen */
 
 	a{
 		text-decoration:none;
-
-/* color inherit is pretty cool.. because it will use the colors
-that are nearby.. instead of us having to style the colors too.*/
 		color:inherit;
+	}
+}
+
+@media (max-width:940px){
+
+	nav{
+		display:none;
+	}
+	header{
+		color:purple;
+	}
+	
+}
+
+@media (min-width:400px) and (max-width:600px){
+	body{
+		font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+		font-size: larger;
+		color:aqua;
 	}
 }
