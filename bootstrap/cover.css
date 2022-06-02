@@ -13,9 +13,9 @@ a:hover {
 .btn-secondary,
 .btn-secondary:hover,
 .btn-secondary:focus {
-  color: rgb(105, 108, 164);
+  color: #333;
   text-shadow: none; /* Prevent inheritance from `body` */
-  background-color: rgb(255, 0, 0);
+  background-color: #fff;
   border: .05rem solid #fff;
 }
 
@@ -27,7 +27,7 @@ a:hover {
 html,
 body {
   height: 100%;
-  background-color: rgb(163, 37, 174);
+  background-image: 
 }
 
 body {
